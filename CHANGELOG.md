@@ -9,7 +9,7 @@
 
 ### ⚠ BREAKING CHANGES
 
-* dropp support for custom promises (#970)
+* drop support for custom promises (#970)
 * convert to typescript (#923)
 * **deps:** update dependency @google-cloud/projectify to v2 (#929)
 
